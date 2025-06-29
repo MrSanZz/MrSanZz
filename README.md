@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MrSanZz&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSanZz&bg_color=000000&color=00ff00&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p>
 
 ---
