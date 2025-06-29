@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **SoloAIV2**, an AI-based MetaTrader 5 trading system  
 - 🧠 Building custom Neural Networks: `DeepNN`, `ActionNN`, `HybridNN`, `SuperHybridNN`, `AlchemistNN`  
 - 🔐 Reverse Engineering & Malware Analysis enthusiast  
-- 🌐 Web & Blockchain Developer with interest in DeFi, Smart Contracts & Zero Knowledge  
+- 🌐 Web & Blockchain Developer with interest in DeFi, Smart Contracts Knowledge  
 - ⚙️ I love automation, obfuscation, and system internals  
 
 ---
