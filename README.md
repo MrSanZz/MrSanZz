@@ -2,7 +2,8 @@
 <h3 align="center">Cybersecurity Enthusiast | Fullstack & AI Engineer | Reverse Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&width=435&lines=Pythonic+by+Heart;Web3+Engineer;Reverse+Engineering+Geek;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&width=435&lines=Pythonic+by+Heart;Web3+Engineer;Reverse+Engineering+Geek;AI%2FML+Enthusiast" alt="Typing SVG" /><br>
+  <img src="https://komarev.com/ghpvc/?username=MrSanZz&color=blue&style=flat-square&label=Views"></img>
 </p>
 
 ---
