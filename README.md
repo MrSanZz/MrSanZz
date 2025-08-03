@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrSanZz</h1>
-<h3 align="center">Cybersecurity Enthusiast | Fullstack & AI Engineer | Reverse Engineer | Forex Trader</h3>
+<h3 align="center">Cybersecurity Enthusiast | AI Engineer | Reverse Engineer | Forex Trader</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&width=435&lines=Pythonic+by+Heart;Web3+Engineer;Beep+Boop,+i+need+coffe;AI%2FML+Enthusiast;Alchemist+forex+trader" alt="Typing SVG" /><br>
@@ -58,3 +58,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSanZz)
 
 ---
+
+```
+01101001 00100000 01101100 01101001 01101011 01100101 00100000 01100110 01100101 01101101 01100010 01101111 01101001 01110011 01110011 00100000
+```
