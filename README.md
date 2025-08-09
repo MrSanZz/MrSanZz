@@ -33,14 +33,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MrSanZz&show_icons=true&theme=tokyonight&count_private=true&hide=issues&custom_title=MrSanZz's+GitHub+Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSanZz&theme=tokyonight" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrsanzz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSanZz&bg_color=000000&color=00ff00&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
-</p>
+</div>
 
 ---
 
