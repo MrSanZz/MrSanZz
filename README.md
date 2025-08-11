@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MrSanZz</h1>
+<h1 align="center">Sup gng, hru? -MrSanZz-</h1>
 <h3 align="center">Cybersecurity Enthusiast | AI Engineer | Reverse Engineer | Forex Trader</h3>
 
 <p align="center">
