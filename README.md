@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **SoloAIV2**, an AI-based MetaTrader 5 trading system  
+- 🔭 I’m currently working on **KaLumiWare**, a big personal project that'll release soon
 - 🧠 Building custom Neural Networks: `DeepNN`, `ActionNN`, `HybridNN`, `SuperHybridNN`, `AlchemistNN`  
 - 🔐 Reverse Engineering & Malware Analysis enthusiast  
 - 🌐 Web & Blockchain Developer with interest in DeFi, Smart Contracts Knowledge  
@@ -59,7 +59,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSanZz)
 
 ---
-
-```
-01101001 00100000 01101100 01101001 01101011 01100101 00100000 01100110 01100101 01101101 01100010 01101111 01101001 01110011 01110011 00100000
-```
