@@ -1,4 +1,5 @@
 <h1 align="center">Greetings, i'm MrSanZz.</h1>
+<p align="center"><img src="https://snapper-intent-carefully.ngrok-free.app/mrsanzz.svg" /></p>
 <h3 align="center">Cybersecurity Enthusiast | AI Engineer | Reverse Engineer | Forex Trader</h3>
 
 <p align="center">
