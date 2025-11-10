@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, i'm MrSanZz.</h1>
-<p align="center"><img src="https://camo.githubusercontent.com/b654a821ecc555a76b72730c233ccdca6349fe200dee723c731137a99b30701e/68747470733a2f2f736e61707065722d696e74656e742d6361726566756c6c792e6e67726f6b2d667265652e6170702f6d7273616e7a7a2e737667" /></p>
+<p align="center"><img src="mrsanzz.svg" /></p>
 <h3 align="center">Cybersecurity Enthusiast | AI Engineer | Reverse Engineer | Forex Trader</h3>
 
 <p align="center">
