@@ -39,7 +39,7 @@
   </style>
 
   <rect class="scanline" width="100%" height="20" />
-  <text x="50%" y="50%" class="glitch1" fill="#0ff">Hacked by MrSanZz</text>
-  <text x="50%" y="50%" class="glitch2" fill="#f0f">Hacked by MrSanZz</text>
-  <text x="50%" y="50%">Hacked by MrSanZz</text>
+  <text x="50%" y="50%" class="glitch1" fill="#0ff">Yooho</text>
+  <text x="50%" y="50%" class="glitch2" fill="#f0f">Yooho</text>
+  <text x="50%" y="50%">Yooho</text>
 </svg>
