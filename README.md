@@ -1,9 +1,9 @@
-<h1 align="center">Greetings, i'm MrSanZz.</h1>
+<h1 align="center">Greetings, i'm Lucida.</h1>
 <p align="center"><img src="mrsanzz.svg" /></p>
-<h3 align="center">Cybersecurity Enthusiast | AI Engineer | Reverse Engineer | Forex Trader</h3>
+<h3 align="center">Programmingholic | Forex Trader</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&width=435&lines=Pythonic+by+Heart;Web3+Engineer;Beep+Boop,+i+need+coffe;AI%2FML+Enthusiast;Alchemist+forex+trader" alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&width=435&lines=Pythonic+by+Heart;Web3+Engineer;Beep+Boop,+i+need+coffe;AI%2FML+Enthusiast;Alchemist+forex+trader;XAUUSDholic" alt="Typing SVG" /><br>
   <img src="https://komarev.com/ghpvc/?username=MrSanZz&color=blue&style=flat-square&label=Views"></img>
 </p>
 
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **KaLumiWare**, a big personal project that'll release soon
+- 🔭 I’m currently working on **KaLumiWare**, a big personal project
 - 🧠 Building custom Neural Networks: `DeepNN`, `ActionNN`, `HybridNN`, `SuperHybridNN`, `AlchemistNN`  
 - 🔐 Reverse Engineering & Malware Analysis enthusiast  
 - 🌐 Web & Blockchain Developer with interest in DeFi, Smart Contracts Knowledge  
@@ -43,14 +43,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mrsanzz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSanZz&bg_color=000000&color=00ff00&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
-
----
-
-### 🏆 Achievements
-
-- ✨ **Total Stars Received:** ![GitHub stars](https://img.shields.io/github/stars/MrSanZz?style=flat-square&color=yellow)  
-- 🧑‍🤝‍🧑 **Total Contributions:** Public + Private  
-- 🔍 **Total Repositories Contributed To:** ![](https://img.shields.io/github/contributors/MrSanZz?style=flat-square&color=blue)
 
 ---
 
